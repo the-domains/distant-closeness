@@ -1,0 +1,14 @@
+layout_spectrum: 0.1936228119302541
+typography_spectrum: 0.13124726130627096
+color:
+  brandStrength: 0.3257025305647403
+  lightness: 0.38641905575059354
+  saturation: 0.12635488016530871
+  rhythmicContrast: 0.06651897309347987
+  brandColors:
+    - '#E1E6FA'
+    - '#C4D7ED'
+    - '#ABC8E2'
+    - '#375D81'
+    - '#183152'
+name: distant closeness
